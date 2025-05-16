@@ -30,7 +30,7 @@ I am a doctoral candidate at Beijing Technology and Business University (2023 - 
 
 **Preprints**
 
-[Testability of Instrumental Variables in Additive Nonlinear, Non-Constant Effects Models.](https://arxiv.org/pdf/2411.12184) **Xichen Guo**, Zheng Li, Biwei Huang, Yan Zeng, Zhi Geng, Feng Xie. arXiv:2411.12184, 2024.
+[Testability of Instrumental Variables in Additive Nonlinear, Non-Constant Effects Models.](https://arxiv.org/pdf/2411.12184) **Xichen Guo**, Zheng Li, Biwei Huang, Yan Zeng, Zhi Geng, Feng Xie. arXiv:2411.12184, 2024. [[R code](https://github.com/zhengli0060/AIT_Condition)]
 
 **Published Papers**
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
